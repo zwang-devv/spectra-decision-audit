@@ -1,0 +1,4 @@
+# Tested versions. Tables are identical with newer releases; figures are pixel-identical with these.
+numpy==1.26.4
+pandas==2.1.4
+matplotlib==3.6.3
